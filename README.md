@@ -3,6 +3,9 @@ https://jazy37.github.io/FetchMovieApi/
 
 ## Design Appearance
 
+![fetchmovie](https://user-images.githubusercontent.com/91371907/165599316-e766ec27-8053-4645-9837-22b44a959e99.png)
+
+
 
 
 # Getting Started with Create React App
