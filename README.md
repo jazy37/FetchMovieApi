@@ -1,5 +1,5 @@
 ## Link
-https://jazy37.github.io/FetchMovieApi/
+<a href="https://jazy37.github.io/FetchMovieApi/" target="_blank">See the project</a>
 
 ## Design Appearance
 
